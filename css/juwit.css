@@ -1,0 +1,19 @@
+body{
+    background:url("../images/juwit_background.png");
+    background-repeat: repeat-x;
+    background-position: top;
+}
+
+.ustl_aside_logo {
+    position: fixed;
+    width: 150px;
+    height: 60px;
+    z-index: 30;
+    right: 120px;
+    bottom: 50px;
+    -webkit-user-select: none;
+    background-image: url("../images/logo-ustl.png");
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+
